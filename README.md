@@ -8,7 +8,7 @@ Then add them in **telethon_config.py**
 Install the requirements:
 
 ```
-pip3 install quart telethon
+pip3 install quart telethon hypercorn json quart_cors
 ```
 
 And run the server:
