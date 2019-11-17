@@ -1,7 +1,7 @@
 # Berrygram_server
 Server for Berrygram
 
-First of all, get your **api_i** and **api_key** on https://my.telegram.org
+First of all, get your **api_id** and **api_key** on https://my.telegram.org
 
 Then add them in **telethon_config.py**
 
